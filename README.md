@@ -1,6 +1,6 @@
 # FISHINIPARSER
 Hello there! I made this parser for hack club phantom program, and here i will show you how to use it.
-The function is: **parseini** and here is the structure of the command: **parseini [FILEPATH] [SECTION] [KEY] [REPLACEMENT_KEY](OPTIONAL)**
+The function is: **parseini** and here is the structure of the command: **parseini [FILEPATH] [SECTION] [KEY] \[REPLACEMENT_KEY](OPTIONAL)**
 The help prompt displays this: 
 ```
 Usage: parseini [FILEPATH] [SECTION] [KEY] [REPLACEMENT_KEY](OPTIONAL)
