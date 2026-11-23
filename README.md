@@ -17,3 +17,11 @@ This script runs in fish shell, so you should:
 2. Install Fish shell
 3. Run the script
 And that's it!
+**DISCLAIMER**
+This script can save the comments written in the ini file but not the comments that are in between keys in a section. E.g.:
+```
+[App]
+version=1.2.1
+# This is a comment
+release=1.2
+```
