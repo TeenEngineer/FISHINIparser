@@ -16,7 +16,9 @@ This script runs in fish shell, so you should:
 1. Install WSL(if you are using windows. If you're on Linux, then proceed to the next step).
 2. Install Fish shell
 3. Run the script
+
 And that's it!
+
 **DISCLAIMER**
 This script can save the comments written in the ini file but not the comments that are in between keys in a section. E.g.:
 ```
